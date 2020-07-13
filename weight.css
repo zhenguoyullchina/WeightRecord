@@ -6,3 +6,18 @@
 body,html{
     height:100%;
 }
+
+#Title{
+    text-align: center;
+    font-size: 24px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#echart{
+    background-color: aqua;
+    width:80%;
+    height:80%;
+    position: absolute;
+    top:10%;
+    left:10%;
+}
